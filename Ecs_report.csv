@@ -1,0 +1,2 @@
+ClusterName ,TaskId/Name ,TaskDefId/Name ,ImageName ,ImageTag ,ValueOfClusterTag_Channel ,ValueOfClusterTag_Env 
+ dev, dev, demo:1, nginx, nginx:latest, Voot, None
